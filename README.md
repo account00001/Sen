@@ -1,3 +1,6 @@
+This repo removes 'tantan,' 'kosal,' and 'starlee' from regular and bold ufos.
+===
+
 FONTLOG for the Sen fonts
 
 This file provides detailed information on the Sen Font Software.
