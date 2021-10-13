@@ -71,9 +71,6 @@ name = aalt;
 },
 {
 code = "sub t t by tt;
-sub k o s a l by whiteSmilingFace;
-sub t a n t a n by whiteSmilingFace;
-sub s t a r l e e by whiteSmilingFace;
 sub colon D by whiteSmilingFace;";
 name = liga;
 },
