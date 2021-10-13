@@ -39,3 +39,6 @@ v1.003 - Improved construction of e, g, c, G, Z, k, R, and a few other character
 
 17 Jan 2020
 v1.004 - Updated to follow Google Fonts technical specifications
+
+12 Oct 2021
+v1.005 - Remove 'tantan,' 'kosal,' and 'starlee' from regular and bold ufos.
